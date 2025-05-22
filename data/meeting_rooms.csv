@@ -1,0 +1,6 @@
+room_id,room_location,capacity,projector,whiteboard,internet
+1,Building A - Floor 1,10,yes,yes,yes
+2,Building A - Floor 2,15,yes,no,yes
+3,Building B - Floor 1,20,yes,yes,yes
+4,Building B - Floor 2,6,no,yes,yes
+5,Building C - Conference,30,yes,yes,yes

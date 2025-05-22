@@ -1,0 +1,5 @@
+include README.md
+include LICENSE
+include DOCUMENTATION.md
+recursive-include meeting_room_booking/web/templates *
+include data/*.csv 
